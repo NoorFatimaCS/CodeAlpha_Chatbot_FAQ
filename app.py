@@ -36,4 +36,5 @@ def chat():
     return jsonify({"answer": response})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Hugging Face ke liye host 0.0.0.0 aur port 7860 hona zaroori hai
+    app.run(host='0.0.0.0', port=7860)
