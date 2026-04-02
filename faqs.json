@@ -1,0 +1,19 @@
+{
+    "queries": [
+        {"question": "What is CodeAlpha?", "answer": "CodeAlpha is a leading software development company dedicated to driving innovation across emerging technologies."},
+        {"question": "How to submit the task?", "answer": "You must submit your completed task using the Submission Form shared in your respective WhatsApp group."},
+        {"question": "What are the internship perks?", "answer": "Perks include an Offer Letter, QR Verified Completion Certificate, Unique ID Certificate, Letter of Recommendation, and Placement Support."},
+        {"question": "Is there a deadline for tasks?", "answer": "Yes, tasks must be completed within the specific timeframe mentioned in your internship offer letter."},
+        {"question": "How many tasks do I need to complete?", "answer": "To be eligible for a certificate, you must complete a minimum of 2 or 3 tasks from the given list."},
+        {"question": "Where should I upload my code?", "answer": "You need to upload your source code to GitHub in a repository named 'CodeAlpha_ProjectName'."},
+        {"question": "Do I need to post on LinkedIn?", "answer": "Yes, you should share your internship status and a video explanation of your project on LinkedIn, tagging @CodeAlpha."},
+        {"question": "Will I get a Letter of Recommendation (LOR)?", "answer": "A Letter of Recommendation is provided based on your performance during the internship."},
+        {"question": "What if I submit only one task?", "answer": "Submitting only one task is considered incomplete, and certificates will not be issued in such cases."},
+        {"question": "How can I contact CodeAlpha support?", "answer": "You can contact them via email at services@codealpha.tech or through their official WhatsApp number."},
+        {"question": "Is the certificate verified?", "answer": "Yes, the completion certificate is QR Verified for authenticity."},
+        {"question": "What technologies does the AI internship cover?", "answer": "It covers AI model development, machine learning workflows, and real-time data processing."},
+        {"question": "Can I choose any task from the list?", "answer": "Yes, you can complete any 2 or 3 tasks from the 4 tasks listed in your domain."},
+        {"question": "How do I show my project working?", "answer": "You are required to post a video explanation of your project on LinkedIn along with the GitHub repository link."},
+        {"question": "Does CodeAlpha provide job opportunities?", "answer": "Yes, CodeAlpha offers job opportunities and placement support to deserving candidates."}
+    ]
+}
