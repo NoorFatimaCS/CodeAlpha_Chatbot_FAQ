@@ -6,8 +6,7 @@ An intelligent FAQ Chatbot developed as part of the **CodeAlpha Artificial Intel
 
 | Light Mode (Home) | Dark Mode (Interactive) |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/YourUsername/CodeAlpha_ProjectName/main/screenshots/screenshot_light.png" width="250" alt="Light Mode Screenshot"> | <img src="https://raw.githubusercontent.com/YourUsername/CodeAlpha_ProjectName/main/screenshots/screenshot_dark.png" width="250" alt="Dark Mode Screenshot"> |
-
+| <img src="screenshot_light.png" width="250"> | <img src="screenshot_dark.png" width="250"> |
 ## 🚀 Key Features
 - **Intelligent Matching:** Uses TF-IDF Vectorization and Cosine Similarity for high-accuracy response matching.
 - **Advanced NLP:** Integrated with NLTK for Lemmatization and Tokenization to understand varied user inputs.
